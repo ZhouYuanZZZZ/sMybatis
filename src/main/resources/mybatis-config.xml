@@ -12,7 +12,7 @@
          <setting name="autoMappingBehavior" value="NONE"/>
      </settings>-->
     <typeAliases>
-        <package name="cn.alexander.entity"></package>
+        <package name="zy.smybatis.entity"></package>
     </typeAliases>
     <environments default="development">
         <environment id="development">
